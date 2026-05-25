@@ -1,0 +1,17 @@
+# Linux Socket App build files
+linux_socket_app/bin/
+
+# STM32 build files (CMake, Eclipse, etc)
+stm32_firmware/build/
+stm32_firmware/Debug/
+stm32_firmware/Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.obj
+
+# Documents and Archives
+*.pdf
+*.zip
